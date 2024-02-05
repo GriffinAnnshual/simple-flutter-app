@@ -1,0 +1,6 @@
+2024/02/03-23:01:38.572 5744 Reusing MANIFEST C:\Users\griff\AppData\Local\Temp\flutter_tools.4d193c33\flutter_tools_chrome_device.5c44f7a3\Default\Local Storage\leveldb/MANIFEST-000001
+2024/02/03-23:01:38.588 5744 Recovering log #3
+2024/02/03-23:01:38.592 5744 Reusing old log C:\Users\griff\AppData\Local\Temp\flutter_tools.4d193c33\flutter_tools_chrome_device.5c44f7a3\Default\Local Storage\leveldb/000003.log 
+2024/02/03-23:04:52.856 440c Level-0 table #5: started
+2024/02/03-23:04:52.868 440c Level-0 table #5: 41648 bytes OK
+2024/02/03-23:04:52.872 440c Delete type=0 #3
