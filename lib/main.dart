@@ -40,7 +40,7 @@ class Home extends StatelessWidget {
             child:  Text("Monday\n26th Oct",
             style: TextStyle(
               fontSize: 30,
-              color: Colors.white,
+              color: Colors.blue,
               fontWeight: FontWeight.bold,
             ),
             )
